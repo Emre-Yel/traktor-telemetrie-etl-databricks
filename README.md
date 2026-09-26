@@ -1,5 +1,3 @@
-# Traktor-telemetrie-etl-databricks
-
 # Traktor-Telemetrie-Pipeline (Databricks/PySpark)
 
 Simuliertes Data-Engineering-Projekt zur Verarbeitung von Sensordaten landwirtschaftlicher 
